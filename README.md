@@ -80,14 +80,14 @@ Vérifications :
 
 Vérifier que les slots sont identifiés:
 root@beaglebone:/sys/devices/platform/bone_capemgr# cat slots
- 0: PF----  -1 
- 1: PF----  -1 
- 2: PF----  -1 
- 3: PF----  -1 
- 4: P-O-L-   1 Override Board Name,00A0,Override Manuf,BB-UART1
- 5: P-O-L-   0 Override Board Name,00A0,Override Manuf,BB-UART2
- 6: P-O-L-   2 Override Board Name,00A0,Override Manuf,BB-UART4
- 7: P-O-L-   3 Override Board Name,00A0,Override Manuf,BB-UART5
+0: PF----  -1 
+1: PF----  -1 
+2: PF----  -1 
+3: PF----  -1 
+4: P-O-L-   1 Override Board Name,00A0,Override Manuf,BB-UART1
+5: P-O-L-   0 Override Board Name,00A0,Override Manuf,BB-UART2
+6: P-O-L-   2 Override Board Name,00A0,Override Manuf,BB-UART4
+7: P-O-L-   3 Override Board Name,00A0,Override Manuf,BB-UART5
  
 Vérifiez que les ttyO sont identifiés:
 
