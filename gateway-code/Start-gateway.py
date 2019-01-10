@@ -4,7 +4,7 @@ import serial
 import json
 import re
 
-TOKEN = "BBFF-orseLz2NhgmdLq7od0NgkGSO2eoOtL"  # Put your TOKEN here
+TOKEN = "PUT_YOUR_TOKEN_HERE"  # Put your TOKEN here
 DEVICE_LABEL = "IOT_STBJ"  # Put your device label here 
 
 # fonction return a JSON with variable give in input
